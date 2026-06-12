@@ -17,5 +17,6 @@ A simple text-based Hangman Game developed using Python.
 ```bash
 python hangman_game.py
 
+
 **## Author**
 Sai Santhana Lakshmi
